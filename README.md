@@ -36,3 +36,6 @@
 
 <h3>Data Source</h3>
 <p>Kaggle – Coffee Shop Sales Dataset</p>
+
+<h3>A Few Notes</h3>
+<p>This is meant for learning and sharing—not for real-world business use. Data credit goes to the original Kaggle contributors.</p>

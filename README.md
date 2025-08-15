@@ -25,7 +25,7 @@
 
 <h3>Dashboard Preview</h3>
 
-![Dashboard](https://github.com/Huzaifa0007/Coffee-Shop-Sales-Excel-Project/blob/main/Coffee-Sales-Analysis-Excel-Project%201.JPG?raw=true)
+![Dashboard](https://github.com/Huzaifa0007/Advanced-Excel-Coffee-Sales-Dashboard-Analysis-Project/blob/main/Snapshot%20Of%20Advanced%20Excel%20Coffee%20Sales%20Dashboard%20%26%20Analysis%20Project.JPG)
 
 <h3>How to Use</h3>
 <ol>

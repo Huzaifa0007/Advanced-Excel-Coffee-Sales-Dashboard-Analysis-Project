@@ -20,7 +20,7 @@
   <li>Peak order times are between 8 AM – 10 AM, showing a strong morning rush.</li>
   <li>Sales are fairly balanced across the week, with a slight drop on Fridays.</li>
   <li>Store locations Astoria and Hell’s Kitchen perform better in revenue compared to Lower Manhattan.</li>
-  <li>Large-sized drinks make up 34% of total sales.</li>
+  <li>Identified a consistent upward sales trend from March to June, highlighting potential seasonal demand growth.</li>
 </ul>
 
 <h3>Dashboard Preview</h3>
